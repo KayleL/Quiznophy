@@ -1,0 +1,20 @@
+= Quiznophy
+
+Quiznophy is a spinoff project of {Francophy}[Francophy.com],
+and it allows you to generate a wide varity of quizzes in verious formats.
+
+== Introduction
+
+During the development of Francophy.com, a website to learn the French language,
+custom code was used to design the games and studies that runs the most important part of the website.
+Part way into development, it was decided to make the code open source.
+Not only this would help to produce better code for Francophy with the help of the open source community,
+but it would add a great gem for anybody to use.
+
+== Goals
+
+Quiznophy would be as application aunostic as possible. Templates could be generated in any syntex the users wishes.
+
+== Installation
+
+The project isn't ready enough for that.
